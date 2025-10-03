@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhanush Kumar  
+# 👋 Hi, I'm Dhanush
 
 🚀 *Aspiring Full Stack Developer | UI/UX Enthusiast | Problem Solver*  
 
