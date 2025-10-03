@@ -5,8 +5,9 @@
 💡 Passionate about building *scalable web apps, crafting **beautiful UI/UX designs, and exploring the power of **AI integration*.  
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2400298/screenshots/6131894/creative-coding.gif" alt="Developer Animation" width="100"><img>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation" width="300"/>
 </p>
+
 
 ---
 
