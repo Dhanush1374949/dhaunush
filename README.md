@@ -44,6 +44,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40"/>
  
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://www.behance.net/YOUR-BEHANCE" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+</p>
 
 
 ## 📊 GitHub Stats  
@@ -58,13 +73,7 @@
 
 ---
 
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
 
 ---
 
-⭐️ From [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+
