@@ -18,7 +18,7 @@
 - 🌱 Currently learning *AI + Full Stack Development*  
 - 💼 Open to opportunities in *Frontend, Full-Stack, or UI/UX roles*  
 
----
+
 
 ## 🚀 Languages & Frameworks  
 
