@@ -43,35 +43,40 @@
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40"/>
+
+
+ ---
+
  
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanush-m-970136325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR-EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+  <a href="https://dhanush1374949.github.io/Morden-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <a href="https://www.behance.net/YOUR-BEHANCE" target="_blank">
+  <a href="https://www.behance.net/dhanushmurugan2596" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
 </p>
+
+---
 
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanush1374949&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush1374949&theme=tokyonight" alt="GitHub Streak" />
 </p>  
 
----
 
 
 ---
